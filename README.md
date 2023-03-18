@@ -26,15 +26,15 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 | Nombre   		      | Integrantes                    |
 |:--------------------:|:------------------------------:|
-|   |     |
-|  	|     |
-|  	|     |
+| Los Tucanes de Mazatlan |     |
+| Chile Del Que Pica	    |     |
+| Cibarium Selecto	      |     |
 
 ### Líderes
 
-- ** [MN]**: 
-- ** [FS]**:
-- ** [LMP]**:
+- ** [LTM] **: Alejandro Cortés Mora
+- ** [CDQP] **: Javier Antonio Rodríguez García
+- ** [SL] **: Hugo Alejandro Roldan Montero
 
 ### Convención de commits 👀
 
@@ -73,10 +73,10 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 **SECCIONES**
 
-- [ ] [Perfil]("") [LMP]
-- [ ] [Concepto y creación]("") [MN]
-- [ ] [Habilidades](Wiki/Habilidades.md) [FS]
-- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md) [FS]
+- [ ] [Perfil]("")
+- [ ] [Concepto y creación]("")
+- [ ] [Habilidades](Wiki/Habilidades.md)
+- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
 
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
@@ -115,7 +115,7 @@ Imparte: Samuel Garrido
 |24|                         |||||
 |25|Olivos Jimenez Luis Mario|||||
 |26|                         |||||
-|27|                         |||||
+|27|Rodriguez Garcia Javier Antonio|||||
 |28|Roldan Montero Hugo Alejandro                         |||||
 |29|Romero Garía Diana Sofía|||||
 |30|Rufino Lopez Maria Elena |||||
